@@ -13,16 +13,16 @@ Welcome to the Medidata Project! This initiative, part of the Advanced Database 
 
 - Integration of advanced data analysis techniques such as ARIMA, K-Means clustering, PCA.
 - Utilization of Gemini AI for textual insights and recommendations.
-- Examination of 51 dietary factors to uncover hidden patterns and identify malnutrition hotspots.
+- Examination of 40 diseases to uncover hidden patterns and predict disease based on symptoms.
 - User-friendly interface empowering stakeholders to devise targeted interventions.
-- Visualization of results to highlight global malnutrition trends and dietary patterns.
+- Visualization of results to highlight global disease trends and death patterns.
 - Access to various datasets for analysis.
 
 ## How to Use
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies specified in the requirements.txt file.
-3. Run the NourishNet.py file to start the application.
+3. Run the Medidata.py file to start the application.
 4. Explore the user-friendly interface to access analysis results and insights.
 5. Customize analysis by selecting different filters and parameters.
 
@@ -59,8 +59,7 @@ Start the server
 
 
 ## Datasets
-1. [Global Dietary Database](https://globaldietarydatabase.org/)
-2. [UNICEF JME Data Warehouse](https://data.unicef.org/topic/nutrition/malnutrition/)
+1. [DATA at WHO](https://platform.who.int/mortality/themes/theme-details/MDB/all-causes)
 
 ## Folder Structure
 
