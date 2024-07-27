@@ -32,13 +32,13 @@ Welcome to the Medidata Project! This initiative, part of the Advanced Database 
 Clone the project
 
 ```bash
-  git clone https://github.com/kishanmodi/Nourish-Ne.git
+  git clone https://github.com/dhrumilshah57/Medidata.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Nourish-Net
+  cd Medidata
 ```
 
 Install dependencies
@@ -50,11 +50,11 @@ Install dependencies
 Start the server
 
 ```bash
-  python3 NourishNet.py
+  python3 Medidata.py
 ```
 
 ```bash
-  streamlit run NourishNet.py
+  streamlit run Medidata.py
 ```
 
 
@@ -66,7 +66,7 @@ Start the server
 
 - `who_dataset/`: Contains datasets used for death analysis.
 - `pages/`: Include Pages of each Section.
-- `NourishNet.py`: Main Python script to run the application.
+- `Medidata.py`: Main Python script to run the application.
 
 ## Contributors
 
