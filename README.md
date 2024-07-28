@@ -8,7 +8,7 @@ Welcome to the Medidata Project! This initiative, part of the Advanced Database 
 
 ## Features
 
-- Integration of advanced data analysis techniques such as ARIMA, K-Means clustering, PCA.
+- Integration of advanced data analysis techniques such as Logistics regression and support vector classification.
 - Utilization of Gemini AI for textual insights and recommendations.
 - Examination of 40 diseases to uncover hidden patterns and predict disease based on symptoms.
 - User-friendly interface empowering stakeholders to devise targeted interventions.
