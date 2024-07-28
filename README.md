@@ -56,7 +56,8 @@ Start the server
 
 
 ## Datasets
-1. [DATA at WHO](https://platform.who.int/mortality/themes/theme-details/MDB/all-causes)
+1. [Disease and Symptoms dataset](https://www.kaggle.com/datasets/choongqianzheng/disease-and-symptoms-dataset/data)
+2. [DATA at WHO](https://platform.who.int/mortality/themes/theme-details/MDB/all-causes)
 
 ## Folder Structure
 
