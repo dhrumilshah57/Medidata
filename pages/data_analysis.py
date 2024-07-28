@@ -280,7 +280,7 @@ if not df.empty:
             "estimated_adult_population"
         },
     }}estimated_number_of_adults_suffering and estimated_adult_population this keys should be shown in the response keys should be same for all disease and all in lower case and the numbers should be in long integer format top 10 countries?"""
-            st.title("Top Nation with high youth patients ")
+            st.title("Top Nations with highest youth patients ")
             # st.write(nations_data)
                 
             nations_data_response = st.session_state.chat.send_message(nations_data)
