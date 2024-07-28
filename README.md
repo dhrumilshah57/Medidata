@@ -41,13 +41,13 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip3 install -r requirements.txt
+  pip install -r requirements.txt
 ```
 
 Start the server
 
 ```bash
-  python3 Medidata.py
+  python Medidata.py
 ```
 
 ```bash
