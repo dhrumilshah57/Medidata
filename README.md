@@ -1,4 +1,4 @@
-# Medidata (Group 2)
+# Medidata (Group 9)
 
 Welcome to the Medidata Project! This initiative, part of the Advanced Database Topics course, addresses disease prediction over variety of symptoms, using advanced data analysis methods.
 
