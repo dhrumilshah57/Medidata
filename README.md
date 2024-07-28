@@ -6,9 +6,6 @@ Welcome to the Medidata Project! This initiative, part of the Advanced Database 
 
 
 
-## Live Demo
-[Medidata](https://medidata.streamlit.app/)
-
 ## Features
 
 - Integration of advanced data analysis techniques such as ARIMA, K-Means clustering, PCA.
@@ -63,8 +60,9 @@ Start the server
 
 ## Folder Structure
 
-- `who_dataset/`: Contains datasets used for death analysis.
+- `data/`: Contains all dataset and Jupyter notebook files.
 - `pages/`: Include Pages of each Section.
+- `who_dataset/`: Contains datasets used for death analysis.
 - `Medidata.py`: Main Python script to run the application.
 
 ## Contributors
