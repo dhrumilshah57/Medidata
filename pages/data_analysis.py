@@ -85,10 +85,10 @@ def process_symptoms(symptoms_experiencing, vectorizer, my_df, X):
 st.title("Symptom Checker and Disease Prediction")
 
 # File paths for datasets
-dataset_path = 'D:/inventory-tracker/dataset.csv'
-severity_data_path = 'D:/inventory-tracker/Symptom-severity.csv'
-descriptions_path = 'D:/inventory-tracker/symptom_Description.csv'
-precautions_path = 'D:/inventory-tracker/symptom_precaution.csv'
+dataset_path = 'dataset.csv'
+severity_data_path = 'Symptom-severity.csv'
+descriptions_path = 'symptom_Description.csv'
+precautions_path = 'symptom_precaution.csv'
 
 # Load and preprocess dataset
 df = load_data(dataset_path)
