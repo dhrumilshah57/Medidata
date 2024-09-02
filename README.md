@@ -4,8 +4,6 @@ Welcome to the Medidata Project! This initiative, part of the Advanced Database 
 
 ## Project Overview
 
-
-
 ## Features
 
 - Integration of advanced data analysis techniques such as Logistics regression and support vector classification.
@@ -80,3 +78,9 @@ This project is licensed for the Advanced Database Topics course at the Universi
 ## Acknowledgments
 
 We express gratitude to Dr. Shafaq Khan, our instructor, GAs and our peers for their invaluable guidance and support throughout the development of this project.
+
+
+<img align="center" src="https://github.com/dhrumilshah57/Medidata/blob/main/img1.png" />
+<img align="center" src="https://github.com/dhrumilshah57/Medidata/blob/main/img2.png" />
+<img align="center" src="https://github.com/dhrumilshah57/Medidata/blob/main/img3.png" />
+<img align="center" src="https://github.com/dhrumilshah57/Medidata/blob/main/img4.png" />
