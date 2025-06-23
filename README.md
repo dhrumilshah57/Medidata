@@ -70,6 +70,7 @@ Start the server
 - Durva Brahmbhatt
 - Dhwani Sheth
 - Devansh Mehta
+- Yash Soni
 
 ## License
 
